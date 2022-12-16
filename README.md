@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Med Aziz Sansa</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/BraveSereneAsp-max-1mb.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/03/038be43907509efdf199030ba6761c46.gif">
 <br>
 
 - 📫 How to reach me **azizsansa4@gmail.com**
