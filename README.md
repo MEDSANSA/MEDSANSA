@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Med Aziz Sansa</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/03/038be43907509efdf199030ba6761c46.gif">
-<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=medsansa&label=Profile%20views&color=0e75b6&style=flat" alt="medsansa" /> </p>
 
 - 📫 How to reach me **azizsansa4@gmail.com**
 
