@@ -19,12 +19,8 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<img src="https://raw.githubusercontent.com/MEDSANSA/MEDSANSA/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/MEDSANSA/count.svg?"  />
 </div>
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
